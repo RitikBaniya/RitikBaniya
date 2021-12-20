@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RitikBaniya
+- 👋 Hi, I’m @Ritik Gupta
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c and c++
 - 💞️ I’m looking to work on intern in any type of companies where i can learn 1% of coding
